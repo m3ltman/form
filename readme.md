@@ -1,5 +1,5 @@
 ## Валидация с использованием регулярных выражений
-https://m3ltman.github.io/validation.github.io/
+https://m3ltman.github.io/form
 
 v0.0.1
 Первоначальная загрузка
